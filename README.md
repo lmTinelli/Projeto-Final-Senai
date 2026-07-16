@@ -15,7 +15,7 @@ Este projeto consiste em uma solução de ponta a ponta (End-to-End) de Machine 
 
 | Plataforma | Link de Acesso | Descrição |
 | :--- | :--- | :--- |
-| 🌐 **Site / FrontEnd** | [Wheel Price Predictor](https://wheel-price-predictor.lovable.app/) | Interface web interativa para realizar previsões de forma intuitiva. |
+| 🌐 **Site / FrontEnd** | https://ride-predict.lovable.app/| Interface web interativa para realizar previsões de forma intuitiva. |
 | 🚀 **API REST / BackEnd** | [API no Render](https://projeto-final-analise-dados-tarde.onrender.com/) | Servidor na nuvem hospedando o modelo de Machine Learning. |
 
 ## 🛠️ Tecnologias Utilizadas
